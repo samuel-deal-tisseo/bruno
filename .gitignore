@@ -47,3 +47,9 @@ yarn-error.log*
 #dev editor
 bruno.iml
 .idea
+
+# Local dev file
+.npmrc
+packages/bruno-electron/electron-builder-config.not_signed.js
+/WIP.md
+.artifacts
